@@ -104,25 +104,30 @@ dynamic_collections:
         - Bosnia and Herzegovina
         - Bulgaria
         - Croatia
+        - Kosovo
         - Macedonia
         - Montenegro
         - Republic of North Macedonia
         - Romania
         - Serbia
         - Slovenia
+        - North Macedonia
+        - Serbia and Montenegro
+        - Yugoslavia
       Benelux:
         - Belgium
         - Luxembourg
         - Netherlands
       Canadian:
         - Canada
+        - St. Pierre and Miquelon
+        - Saint Pierre and Miquelon
       Caribbean:
         - Anguilla
         - Antigua
         - Aruba
         - Bahamas
         - Barbados
-        - Bermuda
         - Bonaire
         - Cayman Islands
         - Cuba
@@ -133,13 +138,32 @@ dynamic_collections:
         - Guadeloupe
         - Haiti
         - Jamaica
+        - Netherlands Antilles
         - Martinique
         - Montserrat
         - Puerto Rico
         - Saint Barthélemy
         - Saint Lucia
+        - Sint Maarten
+        - Saint Martin
         - Trinidad and Tobago
         - Turks and Caicos
+        - Turks and Caicos Islands
+        - Barbuda
+        - Antigua and Barbuda
+        - Sint Eustatius
+        - Saba
+        - Bonaire, Sint Eustatius and Saba
+        - St. Kitts and Nevis
+        - Saint Kitts and Nevis
+        - St. Lucia
+        - Saint Vincent and the Grenadines
+        - Saint Vincent and Grenadines
+        - St. Vincent and the Grenadines
+        - St. Vincent and Grenadines
+        - US Virgin Islands
+        - U.S. Virgin Islands
+        - United States Virgin Islands
       Caucasian:
         - Armenia
         - Azerbaijan
@@ -155,6 +179,9 @@ dynamic_collections:
         - Gabon
         - Republic of the Congo
         - Sao Tome and Principe
+        - São Tomé and Príncipe
+        - Republic of the Congo
+        - Zaire
       Central American:
         - Belize
         - Costa Rica
@@ -178,11 +205,13 @@ dynamic_collections:
         - China
         - Mongolia
       Eastern African:
+        - British Indian Ocean Territory
         - Burundi
         - Comoros
         - Djibouti
         - Eritrea
         - Ethiopia
+        - French Southern Territories
         - Kenya
         - Madagascar
         - Malawi
@@ -198,24 +227,33 @@ dynamic_collections:
         - Uganda
         - Zambia
         - Zimbabwe
+        - United Republic of Tanzania
       Eastern European:
         - Belarus
         - Czech Republic
+        - Czechia
+        - Czechoslovakia
         - Estonia
         - Hungary
         - Latvia
         - Lithuania
         - Moldova
         - Poland
+        - Republic of Moldova
         - Slovakia
         - Ukraine
       German:
         - Germany
+        - East Germany
+        - West Germany
       Greek:
         Greece
       Hong Kong and Macao:
         - Hong Kong
         - Macao
+        - Hong Kong SAR China
+        - Macau SAR China
+        - Macau
       Iberian:
         - Andorra              # Also in French
         - Gibraltar            # Also in United Kingdom
@@ -244,7 +282,9 @@ dynamic_collections:
         - Qatar
         - Saudi Arabia
         - Syria
+        - Syrian Arab Republic
         - Turkey
+        - Türkiye
         - United Arab Emirates
         - Yemen
       Nordic:
@@ -256,6 +296,7 @@ dynamic_collections:
         - Iceland
         - Norway
         - Svalbard and Jan Mayen
+        - Svalbard and Jan Mayen Islands
         - Sweden
       Northern African:
         - Algeria
@@ -264,7 +305,9 @@ dynamic_collections:
         - Morocco
         - Sudan
         - Tunisia
+        - Western Sahara
       Pacific Island:
+        - American Samoa
         - Cook Islands
         - Fiji
         - French Polynesia
@@ -277,14 +320,26 @@ dynamic_collections:
         - New Zealand
         - Niue
         - Norfolk Island
+        - Northern Mariana Islands
+        - Palau
         - Palau
         - Pitcairn
+        - Pitcairn Islands
         - Samoa
         - Solomon Islands
         - Tokelau
         - Tonga
         - Tuvalu
         - Vanuatu
+        - Federated States of Micronesia
+        - US Minor Outlying Islands
+        - United States Minor Outlying Islands
+        - United States Outlying Islands
+        - U.S. Minor Outlying Islands
+        - U.S. Outlying Islands
+        - US Outlying Islands
+        - Wallis and Futuna
+        - Wallis and Futuna Island
       South Asian:
         - Bhutan
         - Bangladesh
@@ -299,17 +354,26 @@ dynamic_collections:
         - Lesotho
         - Namibia
         - South Africa
+        - Swaziland
       Southern Cone:
         - Argentina
         - Chile
         - Paraguay                     # Not always included as part of Southern Cone
         - Uruguay
         - Falkland Islands             # Also in United Kingdom
+        - Malvinas
+        - South Georgia and the South Sandwich Islands
+        - South Georgia and South Sandwich Islands
+        - South Georgia
+        - South Sandwich Islands
       South-East Asia:
         - Brunei
+        - Burma
         - Cambodia
         - Indonesia
         - Lao
+        - Lao People's Democratic Republic
+        - Laos
         - Malaysia
         - Myanmar
         - Philippines
@@ -317,13 +381,19 @@ dynamic_collections:
         - Thailand
         - Vietnam
         - Viet Nam
+        - Brunei Darussalam
       USA:
         - United States of America
+        - United States
+        - Bermuda
       Western African:
         - Benin
         - Burkina Faso
         - Cabo Verde
+        - Cape Verde
         - Côte d'Ivoire
+        - Côte d’Ivoire
+        - Ivory Coast
         - Gambia
         - Ghana
         - Guinea
@@ -336,6 +406,11 @@ dynamic_collections:
         - Senegal
         - Sierra Leone
         - Togo
+        - Saint Helena
+        - St. Helena
+        - Ascension
+        - Tristan da Cunha
+        - Saint Helena, Ascension and Tristan da Cunha
 
 # Grouping of micro-states into existing countries. Some are obviously right, others added as they've nowhere else fitting to go.
 
@@ -348,6 +423,10 @@ dynamic_collections:
         - Cocos (Keeling) Islands
         - New Guinea                # Also in Pacific Islands
         - Timor-Leste               # Also in Pacific Islands
+        - East Timor
+        - Heard Island and McDonald Islands
+        - Heard and McDonald Islands
+        - Papua New Guinea
       Brazilian:
         - Brazil
         - French Guiana
@@ -357,11 +436,13 @@ dynamic_collections:
         - France
         - Monaco
         - Andorra            # Also in Iberian
+        - French Republic
       Italian:
         - Italy
         - Holy See
         - Malta              # Also in United Kingdom and Northern Africa
         - San Marino
+        - Vatican City
       Korean:
         - Korea
         - Democratic People's Republic of Korea
@@ -372,11 +453,13 @@ dynamic_collections:
       UK:
         - United Kingdom
         - Falkland Islands          # Also in Southern Cone
+        - Malvinas
         - Guernsey
         - Gibraltar          # Also in Iberian
         - Isle of Man
         - Jersey
         - Malta              # Also in Italy and Northern African
+        - Sark
 
       Taiwanese:
         - Taiwan
@@ -384,3 +467,4 @@ dynamic_collections:
       Russian:
         - Russia
         - Russian Federation
+        - Soviet Union
