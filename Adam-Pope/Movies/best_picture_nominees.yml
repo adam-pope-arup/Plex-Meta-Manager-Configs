@@ -1,0 +1,13 @@
+collections: 
+  Best Picture Nominees:
+    imdb_award: 
+      event_id: ev0000003
+      category_filter: [best picture, best motion picture of the year]
+      url_poster: https://theposterdb.com/api/assets/10084      
+      sync_mode: sync
+      collection_mode: hide
+      collection_order: 
+        - plays.asc
+        - release.desc
+      event_year: 1929-current
+    summary: "A collection of Oscar nominated films for Best Motion Picture of the Year"
