@@ -9,3 +9,7 @@ collections:
     summary: "A collection of Oscar nominated films for Best Motion Picture of the Year"
     collection_section: "!130"
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/award/oscars/best_picture_nomination.jpg
+    plex_search:
+      sort_by: 
+        - plays.asc
+        - year.desc
