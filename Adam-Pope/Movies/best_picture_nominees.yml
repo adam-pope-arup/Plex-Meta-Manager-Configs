@@ -1,5 +1,5 @@
 collections: 
-  Best Picture Nominees:
+  Oscars Best Picture Nominees:
     imdb_award: 
       event_id: ev0000003
       category_filter: [best picture, best motion picture of the year]
@@ -7,4 +7,5 @@ collections:
       collection_mode: hide
       event_year: 1929-current
     summary: "A collection of Oscar nominated films for Best Motion Picture of the Year"
+    collection_section: "!130"
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/award/oscars/best_picture_nomination.jpg
