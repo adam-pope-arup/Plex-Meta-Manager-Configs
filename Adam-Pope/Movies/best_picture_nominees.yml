@@ -8,9 +8,3 @@ collections:
       event_year: 1929-current
     summary: "A collection of Oscar nominated films for Best Motion Picture of the Year"
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/award/oscars/best_picture_nomination.jpg
-    plex_search:
-      all:
-        collection: Oscars Best Picture Nominees
-      sort_by: 
-        - plays.asc
-        - year.desc
