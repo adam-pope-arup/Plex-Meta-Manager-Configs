@@ -10,7 +10,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/award/oscars/best_picture_nomination.jpg
     plex_search:
       all:
-        year.gte: 1920
+        collection: Oscars Best Picture Nominees
       sort_by: 
         - plays.asc
         - year.desc
