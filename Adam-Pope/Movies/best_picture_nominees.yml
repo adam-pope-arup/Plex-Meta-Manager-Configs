@@ -1,4 +1,4 @@
-collections: 
+collections:
   Oscars Best Picture Nominees:
     imdb_award: 
       event_id: ev0000003
@@ -30,7 +30,7 @@ collections:
       all:
         label: <<smart_label>>
         unplayed: true
-      
+
   Oscars Best Director Winners:
     imdb_award: 
       event_id: ev0000003
@@ -45,8 +45,9 @@ collections:
       sort_by: release.desc
       all:
         label: <<smart_label>>
-        unplayed: true  
-      Oscars International Feature Winners:
+        unplayed: true
+
+  Oscars International Feature Winners:
     trakt_list: https://trakt.tv/users/popeadam/lists/academy-awards-best-international-feature-film
     sync_mode: sync
     summary: Winners of the Best Foreign Feature Film and International Feature Film categories at the Academy Awards/Oscars
@@ -56,6 +57,7 @@ collections:
       all:
         label: <<smart_label>>
         unplayed: true
+
   Oscars International Feature Nominees:
     trakt_list: https://trakt.tv/users/popeadam/lists/academy-awards-international-feature-film-nominees
     sync_mode: sync
