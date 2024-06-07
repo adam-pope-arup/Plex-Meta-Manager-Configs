@@ -8,3 +8,8 @@ collections:
       event_year: 1929-current
     summary: "A collection of Oscar nominated films for Best Motion Picture of the Year"
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/award/oscars/best_picture_nomination.jpg
+    smart_label:
+      sort_by: release.desc
+      all:
+        label: <<smart_label>>
+        unplayed: true
